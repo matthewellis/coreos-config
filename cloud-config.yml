@@ -1,0 +1,5 @@
+#cloud-config
+
+# include one or more SSH public keys
+ssh_authorized_keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQClsVLmbF9cg+PK8HhkQAkOy6KjPKzwbu/JgCZeQ5t3kpo8N8LV4493rsh4/Rk5C+LyD7pm5vdMG92Y9AJ8qgUZsFBcsc8j+nEY43xtoIbxP372LMLZzhjAg0P9dyJOdEtKTJMcZtfuggDgS6ecsAGOEZngTXyv5cdgHUCv2vms4AefLecc8vmC72cybKed4oN9NYF1WNGrgKUTt9ybVI9bvTk29AONL0VfzM8x/TkGAASxiREkHhYZk8nUPaaJ+/+v8MSiuRfBs2x4LbRwJjALC4YodlohmaAcmI4tDNA/62hAsdACairqfAT6XCT60/u/zr3ljXym5ttWrL9Xxn7t matthewellis@Matthews-MacBook-Pro.local
